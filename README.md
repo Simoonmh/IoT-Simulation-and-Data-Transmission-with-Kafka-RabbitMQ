@@ -1,9 +1,10 @@
-# Tarea-2-Sistemas-Distribuidos
+# IoT Device Simulation and Data Transmission with Kafka, RabbitMQ
 
-Colas de Mensajería
+A system that simulates IoT devices and transmits information to a central server using two different message queues: RabbitMQ and Kafka. 
+RabbitMQ and Kafka were used with Docker to enhance scalability and deployment flexibility.
 
-## Uso
+## Code Functionality Overview
 
-Los archivos principales para RabbitMQ y Kafka son producer.py y consumer.py.
+Main files for RabbitMQ and Kafka are producer.py and consumer.py.
 
-4-consumer.py y 4-producer.py corresponden al uso de canales de comunicación distintos.
+4-consumer.py and 4-producer.py correspond to the use of different communication channels.
